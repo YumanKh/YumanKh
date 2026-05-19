@@ -38,4 +38,4 @@ Classic Pong rebuilt in C++ with SFML. game loop, and collision logic.
 ---
 
 ### Connect
-[![LinkedIn](https://www.linkedin.com/in/yuman-khoufache-79903b401/)]
+[![LinkedIn](https://www.linkedin.com/in/yuman-khoufache-79903b401/?skipRedirect=true)]
