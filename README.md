@@ -1,4 +1,4 @@
-## Hey, I'm Yuman 👋
+## Hey, I'm Yuman 👋 (README Not up to date)
 
 Computer Science student @ Austin Community College  
 Building toward fullstack .NET development.
