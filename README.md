@@ -1,6 +1,6 @@
 ## Hey, I'm Yuman 👋
 Computer Science student @ Austin Community College  
-Focused on fullstack web development — Node.js + React.
+Building toward software engineering. Client-server & web systems. — Node.js + React.
 
 ---
 
