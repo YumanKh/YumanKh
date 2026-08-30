@@ -1,8 +1,9 @@
-## Hey, I'm Yuman 👋 ![](https://komarev.com/ghpvc/?username=YumanKh)
+## Hey, I'm Yuman 👋 
 
 Computer Science student @ Austin Community College  
 Building toward software engineering. Client-server & web systems. — Node.js + React.
 
+![](https://komarev.com/ghpvc/?username=YumanKh)
 ---
 
 ### Languages
